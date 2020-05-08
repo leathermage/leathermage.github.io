@@ -1,0 +1,95 @@
+#navbar {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        text-align: r;
+        background-color: #696969;
+      }
+
+
+      #navbar li { display: inline; }
+      #navbar a {
+        font-size: 150%;
+        color: #fff;
+        padding: 15px 40px;
+        text-decoration: none;
+        display: inline-block;
+        width: 200px;
+      }
+      #navbar a:hover {
+        background-color: #ff8c00;
+      }
+
+
+body {
+    text-align: center;
+		background: url(Fon.png);
+		margin: auto;
+    	background-attachment: fixed;
+      background-repeat: no-repeat;
+  background-position: center center;
+     background-size: cover;
+	}
+#text{
+	background: black;
+	border: 1px solid white;
+	width: 750px;
+	margin: 10% auto 20px auto;
+	color: white;
+	font-family: Arial;
+	font-size: 19pt;
+	
+}
+#logo {
+	text-align: center;
+}
+#first_text{
+	color: white;
+	font-family: Arial;
+	font-size: 25pt;
+	text-align: center;
+}
+#second_text{
+	color: white;
+	font-family: Arial;
+	font-size: 19pt;
+}
+#contacts_text{
+	color: white;
+	font-family: Arial;
+	font-size: 19pt;
+}
+
+#Manager {
+	padding-left: 250px;
+	width: 350px;
+	padding-bottom: 47px;	
+}
+#test {
+	padding-left: 1050px;
+	width: 250px;
+	padding-bottom: 4px;
+    margin-top: -400px;
+}
+
+#footer {
+    position: fixed; 
+    left: 0; bottom: 0; 
+    padding: 40px; 
+    background: #000; 
+    color: #fff; 
+    width: 100%; 
+   }
+#Sert1 {
+	padding-left: 300px;
+	width: 30px;
+	padding-bottom: 47px;
+    padding-top: 47px;
+}
+#Sert2 {
+	padding-left: 1280px;
+	width: 250px;
+	padding-bottom: 4px;
+    margin-top: -400px;
+    padding-top: 47px;
+}
